@@ -1,5 +1,5 @@
 flask-sqlalchemy
-Flask~=1.1.2
+Flask~=2.0.3
 pyppeteer~=0.2.5
 urllib3
 requests
