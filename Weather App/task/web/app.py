@@ -35,7 +35,7 @@ class City(db.Model):
 db.drop_all()
 db.create_all()
 
-is_fahrenheit = True
+is_fahrenheit = False
 
 
 @app.route('/')
